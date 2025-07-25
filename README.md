@@ -159,5 +159,3 @@ Your DescriptAI application is ready to generate revenue!
 4. Deploy to production
 
 ---
-
-**🎉 Congratulations! Your AI SaaS is ready to launch!** 
